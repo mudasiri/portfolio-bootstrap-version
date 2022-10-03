@@ -23,3 +23,15 @@ font-weight: 500;
 font-size: 0.94em;
 line-height: 20px;
 }
+
+.s-icons{
+    font-size: 1.5rem; 
+    color: #505F79;
+}
+
+.intro{
+    padding-left: 260px;
+    padding-right: 260px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
